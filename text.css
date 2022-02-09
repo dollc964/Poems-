@@ -1,3 +1,8 @@
 body {
   font-color: black;
 }
+.myDiv {
+  border: 5px outset red;
+  background-color: black;
+  text-align: center;
+}
