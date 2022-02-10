@@ -13,3 +13,10 @@ div {
   text-align: center;
   color: white;
 }
+div.a {
+  border: 5px;
+  outset: red;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
