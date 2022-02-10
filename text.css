@@ -1,8 +1,14 @@
 body {
   font-color: black;
+  text-align: center;
 }
-.myDiv {
-  border: 5px outset red;
+main {
+  margin: auto;
+  max-width: 800px;
+}
+div {
+  border: 5px;
+  outset: red;
   background-color: black;
   text-align: center;
 }
