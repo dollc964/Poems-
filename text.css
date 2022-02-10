@@ -22,7 +22,7 @@ div.a {
 }
 div.b {
   border: 5px;
-  outset:black;
+  outset:white;
   background-color: red;
   text-align: center;
 }
