@@ -5,6 +5,7 @@ body {
 main {
   margin: auto;
   max-width: 800px;
+  background-color: red;
 }
 div {
   border: 5px;
