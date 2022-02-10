@@ -20,3 +20,9 @@ div.a {
   text-align: center;
   color: white;
 }
+div.b {
+  border: 5px;
+  outset:red;
+  background-color: red;
+  text-align: center;
+}
