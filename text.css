@@ -8,21 +8,21 @@ main {
   background-color: red;
 }
 div {
-  border: 5px;
+  border: 50px;
   outset: red;
   background-color: black;
   text-align: center;
   color: white;
 }
 div.a {
-  border: 5px;
+  border: 50px;
   outset: red;
   background-color: black;
   text-align: center;
   color: white;
 }
 div.b {
-  border: 5px;
+  border: 50px;
   outset:white;
   background-color: red;
   text-align: center;
