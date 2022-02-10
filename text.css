@@ -8,7 +8,7 @@ main {
 }
 div {
   border: 5px;
-  outset: red;
-  background-color: black;
+  outset: black;
+  background-color: red;
   text-align: center;
 }
