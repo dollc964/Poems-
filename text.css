@@ -28,6 +28,14 @@ div.b {
   text-align: center;
 }
 h1 {
-  font-size: ; 300px;
-  font-style: Gothic;
+  font-size: 300px;
+}
+h2 {
+  font-size: 100px;
+}
+h3 {
+  font-size: 100px;
+}
+h4 {
+  font-size: 100px;
 }
